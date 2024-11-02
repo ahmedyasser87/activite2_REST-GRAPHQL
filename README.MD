@@ -17,6 +17,23 @@
 <img src="captures/img_8.png">
 <h5>  Créer la couche Service (métier) et du micro service <\h5>
 <img src="captures/img_9.png">
+<h1>partie graphql</h1>
+<h6>schema graphql</h6>
+<img src="captures2/img.png">
+<h6>banqueaccountgraphql</h6>
+<img src="captures2/img_1.png">
+<h6>graphql web </h6>
+<img src="captures2/Capture0.PNG">
+<img src="captures2/Capture.PNG">
+<img src="captures2/Capture.PNG">
+<img src="captures2/Capture2.PNG">
+<img src="captures2/Capture3.PNG">
+<img src="captures2/Capture4.PNG">
+<img src="captures2/Capture5.PNG">
+<img src="captures2/Capture6.PNG">
+<img src="captures2/Capture7.PNG">
+
+
 
 
 
